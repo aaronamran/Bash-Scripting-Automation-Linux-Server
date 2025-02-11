@@ -1,9 +1,9 @@
 # Bash-Scripting-Automation-Linux-Server
 This is a writeup of a practical project to automate Linux server administration tasks, which includes the following:
-1. [System Updates and Patch Installation]()
-2. [Automated Backups]()
-3. [Disk Space Monitoring]()
-4. [Cron Jobs Integration]()
+1. [System Updates and Patch Installation](https://github.com/aaronamran/Bash-Scripting-Automation-Linux-Server/blob/main/README.md#system-updates-and-patch-installation)
+2. [Automated Backups](https://github.com/aaronamran/Bash-Scripting-Automation-Linux-Server/blob/main/README.md#automated-backups)
+3. [Disk Space Monitoring](https://github.com/aaronamran/Bash-Scripting-Automation-Linux-Server/blob/main/README.md#disk-space-monitoring)
+4. [Cron Jobs Integration](https://github.com/aaronamran/Bash-Scripting-Automation-Linux-Server/blob/main/README.md#cron-jobs-integration)
 
 
 ## System Updates and Patch Installation
